@@ -23,18 +23,18 @@
     background-color: var(--background-color);
 }
 
-/* .container__top-img {
+.container__top-img {
     position: fixed;
-    top: -50%;
-    left: -75%;
+    top: -500px;
+    left: -600px;
 
 }
 
 .container__bottom-img {
     position: fixed;
-    bottom: -50%;
-    right: -75%;
-} */
+    bottom: -500px;
+    right: -600px;
+}
 
 .profile-card {
     z-index: 1;
@@ -109,15 +109,19 @@
 }
 
 @media (min-width: 1440px) {
-    /* .container__top-img {
+    .container__top-img {
         position: fixed;
-        top: -50%;
-        left: -15%;
+        width: 60%;
+        height: auto;
+        top: -600px;
+        left: -200px;
     }
 
     .container__bottom-img {
         position: fixed;
-        bottom: -50%;
-        right: -15%;
-    } */
+        width: 60%;
+        height: auto;
+        bottom: -600px;
+        right: -200px;
+    }
 }

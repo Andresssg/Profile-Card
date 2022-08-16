@@ -37,8 +37,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [FrontEnd Mentor: My solution](https://your-solution-url.com)
-- Live Site URL: [GitHub Page: My solution](https://andresssg.github.io/Product-Preview-Card/)
+- Solution URL: [FrontEnd Mentor: My solution](https://www.frontendmentor.io/solutions/responsive-profile-card-component-7FjFcQ16xL)
+- Live Site URL: [GitHub Page: My solution](https://andresssg.github.io/Profile-Card/)
 
 
 ## My process

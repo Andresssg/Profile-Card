@@ -61,15 +61,14 @@
 }
 
 .card-main-info__img {
-    position: absolute;
-    top: -32%;
+    margin-top: -50px;
     border: 5px solid white;
     border-radius: 50%;
 }
 
 .card-main-info__name {
     font-size: 18px;
-    margin-top: 50px;
+    margin-top: 20px;
     color: var(--primary-text-color);
 }
 

@@ -1,15 +1,10 @@
 # Frontend Mentor - Profile card component
 
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
-
-# Frontend Mentor - Product preview card component
-
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
 
 ## Table of contents
 
 - [Frontend Mentor - Profile card component](#frontend-mentor---profile-card-component)
-- [Frontend Mentor - Product preview card component](#frontend-mentor---product-preview-card-component)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
